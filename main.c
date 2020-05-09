@@ -1,10 +1,5 @@
 /*
  *
- * Instructions:
- *  Run this program as is to verify correct hardware connections.
- *  Explore the program and see the effect of switches on pins
- *  P2.3-5. Make the appropriate changes to the program as per the
- *  lab manual.
  */
 
 #include <msp430.h>
