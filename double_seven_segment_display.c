@@ -1,14 +1,4 @@
 /**
- * CDA 3331C: Introduction to Microprocessors
- * Dr. Bassem Alhalabi, FAU EE512, Boca Raton, FL
- * Contributors: Pablo Pastran (2015), David Wilson (2020)
- * Skeleton Program for Lab 5 in C
- *
- * Instructions:
- *  Run this program as is to verify correct hardware connections.
- *  Explore the program and see the effect of switches on pins
- *  P2.3-5. Make the appropriate changes to the program as per the
- *  lab manual.
  *  SW-321 = 000: Counter Resets to 00
  *  SW-321 = 001: Right Digit Cycles 0-9
  *  SW-321 = 010: Left Digit Cycles 0-9
