@@ -1,2 +1,3 @@
-#MSP430 Microprocessor
-assembly and C source for MSP430 microprocessor
+# MSP430 Microprocessor
+
+Assembly and C source for MSP430 microprocessor
